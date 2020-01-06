@@ -1,0 +1,158 @@
+﻿{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 2,
+      "productName": "Chai",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "24",
+      "unitsInStock": 53
+    },
+    {
+      "id": 2,
+      "categoryId": 1,
+      "productName": "Chang",
+      "quantityPerUnit": "24 - 12 oz bottles",
+      "unitPrice": "21",
+      "unitsInStock": 17
+    },
+    {
+      "id": 4,
+      "categoryId": 1,
+      "productName": "Chef Anton's Cajun Seasoning",
+      "quantityPerUnit": "48 - 6 oz jars",
+      "unitPrice": "222",
+      "unitsInStock": 53
+    },
+    {
+      "id": 5,
+      "categoryId": 2,
+      "productName": "Chef Anton's Gumbo Mix",
+      "quantityPerUnit": "36 boxes",
+      "unitPrice": "21",
+      "unitsInStock": 0
+    },
+    {
+      "id": 21,
+      "categoryId": 3,
+      "productName": "Sir Rodney's Scones",
+      "quantityPerUnit": "24 pkgs. x 4 pieces",
+      "unitPrice": 10,
+      "unitsInStock": 3
+    },
+    {
+      "id": 22,
+      "categoryId": 5,
+      "productName": "Gustaf's Knäckebröd",
+      "quantityPerUnit": "24 - 500 g pkgs.",
+      "unitPrice": 21,
+      "unitsInStock": 104
+    },
+    {
+      "id": 23,
+      "categoryId": 5,
+      "productName": "Tunnbröd",
+      "quantityPerUnit": "12 - 250 g pkgs.",
+      "unitPrice": 9,
+      "unitsInStock": 61
+    },
+    {
+      "id": 24,
+      "categoryId": 1,
+      "productName": "Guaraná Fantástica",
+      "quantityPerUnit": "12 - 355 ml cans",
+      "unitPrice": 4.5,
+      "unitsInStock": 20
+    },
+      {
+      "id": 58,
+      "categoryId": 8,
+      "productName": "Escargots de Bourgogne",
+      "quantityPerUnit": "24 pieces",
+      "unitPrice": 13.25,
+      "unitsInStock": 62
+    },
+    {
+      "id": 59,
+      "categoryId": 4,
+      "productName": "Raclette Courdavault",
+      "quantityPerUnit": "5 kg pkg.",
+      "unitPrice": 55,
+      "unitsInStock": 79
+    },
+     {
+      "id": 75,
+      "categoryId": 1,
+      "productName": "Rhönbräu Klosterbier",
+      "quantityPerUnit": "24 - 0.5 l bottles",
+      "unitPrice": 7.75,
+      "unitsInStock": 125
+    },
+    {
+      "id": 76,
+      "categoryId": 1,
+      "productName": "Lakkaliköör",
+      "quantityPerUnit": "500 m",
+      "unitPrice": 18,
+      "unitsInStock": 57
+    },
+    {
+      "id": 77,
+      "categoryId": 2,
+      "productName": "Original Frankfurter grüne Soße",
+      "quantityPerUnit": "12 boxes",
+      "unitPrice": 13,
+      "unitsInStock": 32
+    },
+    {
+      "productName": "Laptop",
+      "categoryId": 4,
+      "unitPrice": "1000",
+      "quantityPerUnit": "1",
+      "unitsInStock": "2",
+      "id": 78
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Beverages",
+      "seoUrl": "beverages"
+    },
+    {
+      "id": 2,
+      "categoryName": "Condiments",
+      "seoUrl": "condiments"
+    },
+    {
+      "id": 3,
+      "categoryName": "Confections",
+      "seoUrl": "confections"
+    },
+    {
+      "id": 4,
+      "categoryName": "Dairy Products",
+      "seoUrl": "dairy-products"
+    },
+    {
+      "id": 5,
+      "categoryName": "Grains/Cereals",
+      "seoUrl": "grains-cereals"
+    },
+    {
+      "id": 6,
+      "categoryName": "Meat/Poultry",
+      "seoUrl": "meat-poultry"
+    },
+    {
+      "id": 7,
+      "categoryName": "Produce",
+      "seoUrl": "produce"
+    },
+    {
+      "id": 8,
+      "categoryName": "Seafood",
+      "seoUrl": "seafood"
+    }
+  ]
+}
